@@ -1,0 +1,25 @@
+{
+  "name": "node-punctuation-conversion",
+  "version": "1.0.0",
+  "description": "中英文标点互换 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EManual/node-punctuation-conversion.git"
+  },
+  "keywords": [
+    "Chinese",
+    "English",
+    "punctuation",
+    "conversion"
+  ],
+  "author": "Jayin Ton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/EManual/node-punctuation-conversion/issues"
+  },
+  "homepage": "https://github.com/EManual/node-punctuation-conversion#readme"
+}
