@@ -3,10 +3,11 @@
 
 ## example
 
+checkout [test](./test.js)
 ```js
 var convert = require('node-punctuation-conversion')
 var assert = require('assert')
 
-assert.equal(convert.replaceChinese('你好'), '你好')
 assert.equal(convert.replaceChinese('你好！？'), '你好!?')
+assert.equal(convert.replaceChinese('你好!?'), '你好！？')
 ```
